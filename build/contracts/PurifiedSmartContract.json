@@ -1,0 +1,125 @@
+{
+  "contractName": "PurifiedSmartContract",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.8.12+commit.f00d7308\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"project:/contracts/PurifiedSmartContract.sol\":\"PurifiedSmartContract\"},\"evmVersion\":\"london\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"project:/contracts/PurifiedSmartContract.sol\":{\"keccak256\":\"0xa478db9a9cd1f03ea709f66a87a0143630a133c7a83d220869e736de4876f3ae\",\"urls\":[\"bzz-raw://f3196a956e5c128eaa3218df78e058192116c2db914466465c9c2719af43af8b\",\"dweb:/ipfs/QmcaJjxkTLo96omQb3tqQHysK5Db6P8xNPDrcxkFtgxf8q\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220a2766cf9442e40e44ec7b565661594cd8beea4dbc5435492e1520221c584de5464736f6c634300080c0033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220a2766cf9442e40e44ec7b565661594cd8beea4dbc5435492e1520221c584de5464736f6c634300080c0033",
+  "immutableReferences": {},
+  "generatedSources": [],
+  "deployedGeneratedSources": [],
+  "sourceMap": "26:33:1:-:0;;;;;;;;;;;;;;;;;;;",
+  "deployedSourceMap": "26:33:1:-:0;;;;;",
+  "source": "pragma solidity ^0.8.12;\n\ncontract PurifiedSmartContract {}\n",
+  "sourcePath": "C:\\Users\\Monsieur D\\Documents\\Projet Devenir Dev Blockchain\\EatTheBlocksPro-30_Dapps\\day1_SimpleSmartContract\\Purified-Smart-Contract-\\contracts\\PurifiedSmartContract.sol",
+  "ast": {
+    "absolutePath": "project:/contracts/PurifiedSmartContract.sol",
+    "exportedSymbols": {
+      "PurifiedSmartContract": [
+        60
+      ]
+    },
+    "id": 61,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 59,
+        "literals": [
+          "solidity",
+          "^",
+          "0.8",
+          ".12"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:24:1"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "canonicalName": "PurifiedSmartContract",
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 60,
+        "linearizedBaseContracts": [
+          60
+        ],
+        "name": "PurifiedSmartContract",
+        "nameLocation": "35:21:1",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 61,
+        "src": "26:33:1",
+        "usedErrors": []
+      }
+    ],
+    "src": "0:60:1"
+  },
+  "legacyAST": {
+    "absolutePath": "project:/contracts/PurifiedSmartContract.sol",
+    "exportedSymbols": {
+      "PurifiedSmartContract": [
+        60
+      ]
+    },
+    "id": 61,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 59,
+        "literals": [
+          "solidity",
+          "^",
+          "0.8",
+          ".12"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:24:1"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "canonicalName": "PurifiedSmartContract",
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 60,
+        "linearizedBaseContracts": [
+          60
+        ],
+        "name": "PurifiedSmartContract",
+        "nameLocation": "35:21:1",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 61,
+        "src": "26:33:1",
+        "usedErrors": []
+      }
+    ],
+    "src": "0:60:1"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.8.12+commit.f00d7308.Emscripten.clang"
+  },
+  "networks": {
+    "1647020413528": {
+      "events": {},
+      "links": {},
+      "address": "0x829212Ca8EF16E6Bd73803eB45fbDea6FCfB0368",
+      "transactionHash": "0xd3a2e31287f0a56c333a0f334935eacf4d924f9473e0741f06c7f3f6d8bf6ea1"
+    }
+  },
+  "schemaVersion": "3.4.5",
+  "updatedAt": "2022-03-11T17:46:48.182Z",
+  "networkType": "ethereum",
+  "devdoc": {
+    "kind": "dev",
+    "methods": {},
+    "version": 1
+  },
+  "userdoc": {
+    "kind": "user",
+    "methods": {},
+    "version": 1
+  }
+}
